@@ -1,4 +1,4 @@
-# theta-bili
+# epsilon-bili
 
 B站各种直播间插件，超级龟速开发中（
 
